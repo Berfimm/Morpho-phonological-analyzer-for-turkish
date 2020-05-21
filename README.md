@@ -1,2 +1,2 @@
-# Morpho-phonologic-analysis-turkish
+#MORPHO-PHONOLOGICAL ANALYZER FOR TURKISH
 This code working according to my words.
